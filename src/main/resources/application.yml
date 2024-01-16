@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: micronaut-kotlin-quickstart
+
+  server:
+    port: 8081
